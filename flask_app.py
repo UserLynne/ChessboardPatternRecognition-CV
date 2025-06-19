@@ -3,7 +3,7 @@ from stockfish import get_best_move
 from image2fen import image_to_fen
 
 YOLO_MODEL_PATH = "chess-model-yolov11m.pt"
-STOCKFISH_PATH = "stockfish/stockfish-windows-x86-64-avx2.exe"
+STOCKFISH_PATH = "stockfish/stockfish/stockfish-windows-x86-64-avx2.exe"
 
 
 app = Flask(__name__)
