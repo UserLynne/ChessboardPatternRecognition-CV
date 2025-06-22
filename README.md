@@ -1,5 +1,7 @@
 # 国际象棋图像识别与AI对弈系统
 
+演示视频https://www.bilibili.com/video/BV1hMNRzPEby
+
 ## 一、项目功能简述
 
 ### （一）功能概述
